@@ -18,9 +18,9 @@ Software engineer passionate about elegant solutions to complex problems. I work
     <a href="https://www.typescriptlang.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></code>  
     </a>
-    <a href="https://getbootstrap.com" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></code>  
-    </a> 
+    <a href="https://www.python.org/" target="_blank"> 
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></code>  
+</a>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></code>  
     </a>

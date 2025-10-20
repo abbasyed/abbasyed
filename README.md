@@ -21,7 +21,7 @@
 
 ```typescript
 const abbas = {
-    location: "Stockton, California 📍",
+    location: "California 📍",
     currentRole: "Full Stack Developer @ Tern Systems",
     education: "Master's in Computer Science 🎓",
     focus: ["Performance Optimization", "System Design", "Developer Experience"],

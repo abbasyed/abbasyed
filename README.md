@@ -68,11 +68,11 @@ const abbas = {
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abbasyed&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-stats-lime-chi.vercel.app/api?username=abbasyed&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&count_private=true&include_all_commits=true" />
   
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abbasyed&theme=react&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F59E0B&currStreakLabel=F59E0B&count_private=true" />
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbasyed&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8&count_private=true" />
+  <img width="49%" src="https://github-stats-lime-chi.vercel.app/api/top-langs/?username=abbasyed&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8&count_private=true" />
   
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=abbasyed&custom_title=Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" />
 

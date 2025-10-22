@@ -70,9 +70,9 @@ const abbas = {
   
   <img width="49%" src="https://github-stats-lime-chi.vercel.app/api?username=abbasyed&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&count_private=true&include_all_commits=true" />
   
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abbasyed&theme=react&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F59E0B&currStreakLabel=F59E0B&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abbasyed&theme=react&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F59E0B&currStreakLabel=F59E0B&include_all_commits=true" />
 
-  <img width="49%" src="https://github-stats-lime-chi.vercel.app/api/top-langs/?username=abbasyed&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8&count_private=true" />
+  <img width="49%" src="https://github-stats-lime-chi.vercel.app/api/top-langs/?username=abbasyed&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8&count_private=true&hide=html,css" />
   
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=abbasyed&custom_title=Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" />
 
@@ -296,11 +296,11 @@ Early Engineer @ Celstra (Startup) • Software Engineer @ Focus Softnet (Startu
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abbasyed&theme=github_dark" width="100%" />
+<img src="https://git-stats-summary.vercel.app/api/cards/profile-details?username=abbasyed&theme=github_dark" width="100%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abbasyed&theme=github_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abbasyed&theme=github_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abbasyed&theme=github_dark" width="32%" />
+<img src="https://git-stats-summary.vercel.app/api/cards/repos-per-language?username=abbasyed&theme=github_dark" width="32%" />
+<img src="https://git-stats-summary.vercel.app/api/cards/most-commit-language?username=abbasyed&theme=github_dark" width="32%" />
+<img src="https://git-stats-summary.vercel.app/api/cards/productive-time?username=abbasyed&theme=github_dark" width="32%" />
 
 </div>
 

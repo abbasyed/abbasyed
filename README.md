@@ -2,9 +2,10 @@
   
 # 👋 Hello, I'm Abbas Syed
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Software+Engineer;React+%7C+Next.js+%7C+TypeScript;Building+Systems+at+Scale;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=650&lines=Full+Stack+Software+Engineer;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Building+Systems+at+Scale;AI-Assisted+Development;Open+Source+Contributor)](https://git.io/typing-svg)
 
-**Building scalable web applications that serve 45K+ daily users and process $5M+ in daily transactions**
+**Building scalable web applications that serve 45K+ daily users and process $5M+ in daily transactions**  
+**Using AI tools (Cursor, Claude Code CLI, GPT) to ship features fast**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abbazz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=react&logoColor=white)](https://abbaz.dev)
@@ -21,32 +22,42 @@
 
 ```typescript
 const abbas = {
-    location: "California 📍",
-    currentRole: "Full Stack Developer @ Tern Systems",
+    location: "California 📍 (Open to SF/Bay Area relocation)",
+    currentRole: "Full Stack Engineer @ Tern Systems",
     education: "Master's in Computer Science 🎓",
-    focus: ["Performance Optimization", "System Design", "Developer Experience"],
+    focus: ["0→1 Product Building", "Performance Optimization", "AI-Assisted Development"],
     openToWork: true,
-    targetCompanies: ["FAANG", "High-Growth Startups", "Product Companies"],
+    targetRoles: ["Full Stack Engineer", "Software Engineer", "Backend Engineer"],
+    targetCompanies: ["Early-stage Startups", "High-Growth Tech", "FAANG", "Series A-C"],
     
     currentlyWorking: {
-        tech: ["Next.js", "TypeScript", "React", "Node.js"],
-        achievement: "Reduced page load time by 65% for 45K+ daily users",
+        tech: ["Next.js", "TypeScript", "React", "Node.js", "Redux"],
+        achievement: "Reduced page load time by 65% (3.2s → 1.1s) for 45K+ daily users",
         impact: "Shipped 12+ features in 6 months with 99.7% uptime"
     },
     
+    developmentWorkflow: {
+        aiTools: ["Cursor", "Claude Code CLI", "GitHub Copilot", "GPT-4"],
+        approach: "Rapid prototyping with AI-assisted development",
+        style: "Ship fast, iterate based on user feedback"
+    },
+    
     recentWins: [
-        "Built systems processing $5M+ daily transactions",
-        "Reduced MongoDB latency by 80% through optimization",
-        "Active contributor to Vite (100K+ ⭐)",
-        "2,000+ users on CVInsight with 4.5/5 rating"
+        "Built systems processing $5M+ daily transactions (99.95% uptime)",
+        "Reduced MongoDB latency by 80% through optimization (400ms → 80ms)",
+        "Active contributor to Vite (100K+ ⭐, 500K+ weekly npm downloads)",
+        "2,000+ users on CVInsight with 4.5/5 rating",
+        "Built AI agent at Cerebral SF AI Hackathon using vector embeddings",
+        "Early engineer (employee #3) at fintech startup, scaled 200 → 1,200+ users"
     ],
     
     askMeAbout: [
-        "React performance optimization",
-        "Next.js SSR/SSG strategies", 
-        "Microservices architecture",
-        "MongoDB query optimization",
-        "Redis caching patterns"
+        "React/Next.js performance optimization & SSR strategies",
+        "Microservices architecture & event-driven systems", 
+        "MongoDB query optimization & Redis caching",
+        "Building products 0→1 with real users",
+        "AI-assisted development workflows",
+        "Scaling startups from seed to Series A"
     ]
 };
 ```
@@ -98,13 +109,15 @@ const abbas = {
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
-### Databases
+### Databases & Caching
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -116,12 +129,14 @@ const abbas = {
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### AI/ML
+### AI/ML & Development Tools
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -139,32 +154,69 @@ const abbas = {
 [![CVInsight](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cvinsight.site/)
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abbasyed/cvinsight)
 
-**AI-Powered Resume Analyzer**
+**AI-Powered Resume Assessment Platform**
 
 🎯 **2,000+ resumes analyzed**  
 ⭐ **4.5/5 average rating**  
-🚀 **Built with Gemini API**
+🚀 **Built in 6 weeks**  
+⚡ **Shipped iteratively with user feedback**
 
-Full-stack application helping job seekers optimize resumes with AI-powered feedback.
+Full-stack application helping job seekers optimize resumes with AI-powered job-match scoring and personalized feedback.
 
-**Stack:** React • Node.js • MongoDB • Docker • GCP
+**Stack:** React • Node.js • Express • Gemini API • MongoDB • Docker • GCP
 
 </td>
 <td width="50%">
 
+### 🌐 Cultural AI Translation Agent
+[![Demo](https://img.shields.io/badge/Hackathon_Project-FF6B6B?style=for-the-badge&logo=python&logoColor=white)](https://github.com/abbasyed/cultural-ai-agent)
+
+**AI Agent with Semantic Search & Vector Embeddings**
+
+🏆 **Cerebral SF AI Hackathon**  
+🧠 **Multi-step reasoning**  
+⚡ **Real-time memory evolution**  
+🎯 **Confidence-aware translations**
+
+AI agent that learns cultural communication preferences using vector embeddings and semantic search.
+
+**Stack:** Python • Fireworks AI • Vector Embeddings • LangChain • Semantic Search
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
 ### 🧠 Emotion-Analyzer
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abbasyed/emotion-analyzer)
-[![Demo](https://img.shields.io/badge/Demo-FF6B6B?style=for-the-badge&logo=python&logoColor=white)](https://github.com/abbasyed/emotion-analyzer)
 
 **NLP Sentiment Analysis Engine**
 
 ✅ **95% accuracy achieved**  
-⚡ **60% faster inference**  
-📊 **10K+ test samples**
+⚡ **Optimized inference time**  
+📊 **Fine-tuned BERT model**
 
-Fine-tuned BERT model for sentiment classification with optimized performance.
+Sentiment analysis engine with quantization techniques for faster inference on custom datasets.
 
-**Stack:** Python • BERT • PyTorch • Hugging Face
+**Stack:** Python • BERT • PyTorch • Hugging Face • Transformers
+
+</td>
+<td width="50%">
+
+### 💰 Payment Processing System
+[![Private](https://img.shields.io/badge/Enterprise_Project-4285F4?style=for-the-badge&logo=lock&logoColor=white)](https://github.com/abbasyed)
+
+**Scalable Microservices Architecture**
+
+💵 **$5M+ daily transactions**  
+⚡ **99.95% uptime**  
+🔄 **Event-driven design**  
+📊 **Complete audit trails**
+
+Built at Real Page - Node.js microservices with fault-tolerant design and automatic retry mechanisms.
+
+**Stack:** Node.js • Redis • MongoDB • AWS • Bull/Redis Queues
 
 </td>
 </tr>
@@ -188,7 +240,7 @@ Fine-tuned BERT model for sentiment classification with optimized performance.
 **Recent Contributions:**
 - 🔧 **[PR #15521](https://github.com/vitejs/vite/pull/20872)** - Fixed HMR for import.meta.glob array patterns with exclusions
 - 📚 **[PR #15464](https://github.com/vitejs/vite/pull/20756)** - Migrated hook filter documentation to main plugin guide
-- ✨ Enhanced build performance and developer experience
+- 💬 Active in community helping developers debug build and configuration issues
 
 <div align="center">
   
@@ -202,16 +254,39 @@ Fine-tuned BERT model for sentiment classification with optimized performance.
 
 <div align="center">
 
-| Metric | Achievement |
-|--------|-------------|
-| 👥 **Users Served** | 45K+ daily active users |
-| 💰 **Transaction Volume** | $5M+ processed daily |
-| ⚡ **Performance Gains** | 80% latency reduction |
-| 🎯 **System Reliability** | 99.95%+ uptime |
-| 📦 **Components Built** | 50+ reusable React components |
-| 🤖 **ML Accuracy** | 92-95% in production models |
-| 💾 **Cost Savings** | $4,200/month in infrastructure |
-| 🚀 **Features Shipped** | 12+ in 6 months |
+| Metric | Achievement | Context |
+|--------|-------------|---------|
+| 👥 **Users Served** | 45,000+ daily | Next.js SSR application |
+| 💰 **Transaction Volume** | $5M+ daily | Payment processing microservices |
+| ⚡ **Latency Reduction** | 80% faster | MongoDB query optimization (400ms → 80ms) |
+| 🚀 **Page Load Speed** | 65% faster | Next.js optimization (3.2s → 1.1s) |
+| 🎯 **System Reliability** | 99.95% uptime | Event-driven microservices |
+| 📦 **Components Built** | 50+ reusable | TypeScript component library |
+| 🤖 **ML Accuracy** | 92-95% | GL code prediction automation |
+| 💾 **Cost Savings** | $4,200/month | Redis caching optimization |
+| 🏗️ **Features Shipped** | 12+ in 6 months | Cross-functional collaboration |
+| 📈 **User Growth** | 200 → 1,200+ | Early engineer at Celstra (employee #3) |
+
+</div>
+
+---
+
+## 🎓 Education & Experience
+
+<div align="center">
+
+**Master's in Computer Science**  
+University of the Pacific | Aug 2023 - Dec 2024  
+*Research Assistant (Jun - Aug 2024) | AI in Healthcare specialization*
+
+**Focus Areas:**  
+Advanced Algorithms • Web Programming • Cybersecurity • Advanced Software Engineering
+
+---
+
+**6+ Years Professional Experience**  
+Full Stack Engineer @ Tern Systems (Current) • Software Engineer @ Real Page • HCL Technologies  
+Early Engineer @ Celstra (Startup) • Software Engineer @ Focus Softnet (Startup)
 
 </div>
 
@@ -231,53 +306,66 @@ Fine-tuned BERT model for sentiment classification with optimized performance.
 
 ---
 
-## 🎓 Education & Certifications
-
-<div align="center">
-
-**Master's in Computer Science**  
-University of the Pacific | 2023 - 2024  
-*Research Assistant specializing in AI in Healthcare*
-
-**Focus Areas:**  
-Advanced Algorithms • Web Programming • Cybersecurity • Advanced Software Engineering
-
-</div>
-
----
-
 ## 💡 What I'm Currently Working On
 
 ```javascript
 const currentFocus = {
-    learning: [
-        "Advanced Next.js patterns (RSC, Server Actions)",
-        "Distributed systems design",
-        "GraphQL Federation",
-        "AWS Advanced Architecture"
+    shipping: [
+        "High-performance Next.js SSR applications (45K+ daily users)",
+        "Redux state management architecture (200+ actions)",
+        "Reusable TypeScript component libraries",
+        "API optimization with SWR caching strategies"
     ],
     
-    building: [
-        "High-performance Next.js SSR applications",
-        "Scalable microservices architecture",
-        "Real-time data visualization dashboards",
-        "AI-integrated web applications"
+    learning: [
+        "Advanced Next.js patterns (React Server Components, Server Actions)",
+        "GraphQL Federation & microservices",
+        "AWS advanced architecture & Lambda optimization",
+        "Vector embeddings & semantic search"
+    ],
+    
+    workflow: [
+        "Using Cursor & Claude Code CLI for agentic coding",
+        "GitHub Copilot for rapid prototyping",
+        "GPT-4 for debugging and optimization",
+        "Shipping fast, iterating based on user feedback"
     ],
     
     exploring: [
         "Edge computing with Cloudflare Workers",
-        "Rust for performance-critical services",
-        "WebAssembly for browser optimization",
-        "Advanced caching strategies"
+        "Advanced caching strategies (Redis patterns)",
+        "Event-driven architecture at scale",
+        "AI-integrated web applications"
     ],
     
     contributing: [
         "Vite build tool improvements",
         "Open source React libraries",
-        "Documentation for popular frameworks"
+        "Developer documentation",
+        "SF tech community & hackathons"
     ]
 };
 ```
+
+---
+
+## 🚀 What I Bring
+
+<div align="center">
+
+```
+✅ Ship features independently without extensive product/design support
+✅ Use AI tools daily (Cursor, Claude Code CLI, Copilot) to accelerate development
+✅ Built real products 0→1 with paying users and revenue
+✅ Strong product intuition and willingness to make UX decisions
+✅ Comfortable with ambiguity and defining architecture patterns
+✅ Early-stage startup experience (employee #3, scaled 200 → 1,200+ users)
+✅ Value clean, maintainable code with good documentation
+✅ Learn new tech stacks quickly and iterate based on user feedback
+✅ Active in SF tech community and hackathons
+```
+
+</div>
 
 ---
 
@@ -288,16 +376,19 @@ const currentFocus = {
 **I'm actively exploring opportunities with innovative companies building products at scale.**
 
 ### Interested in:
-✅ Full Stack Engineer • Backend Engineer • Senior Software Engineer roles  
-✅ Companies solving challenging technical problems  
-✅ Teams that value performance, scalability, and code quality  
-✅ Remote or relocation opportunities (SF, Seattle, NYC, Austin)
+✅ **Full Stack Engineer • Backend Engineer • Software Engineer roles**  
+✅ **Early-stage startups (Seed - Series C) & high-growth tech companies**  
+✅ **Companies that move fast and ship features**  
+✅ **Teams that value performance, scalability, and AI-assisted development**  
+✅ **Open to SF/Bay Area relocation or remote opportunities**
 
 ### Let's talk about:
-💬 React/Next.js architecture and optimization  
-💬 Microservices and distributed systems  
-💬 Database performance tuning  
-💬 Building scalable web applications  
+💬 Building products 0→1 with real users and revenue  
+💬 React/Next.js architecture and performance optimization  
+💬 Microservices, event-driven systems, and scalability  
+💬 Database performance tuning (MongoDB, PostgreSQL, Redis)  
+💬 AI-assisted development workflows  
+💬 Scaling startups from seed to Series A  
 💬 Open source collaboration
 
 <br/>
@@ -313,9 +404,11 @@ const currentFocus = {
 
 <div align="center">
   
-### 💻 "Building scalable systems that serve millions while maintaining clean, performant code"
+### 💻 "Shipping fast, building at scale, using AI to accelerate development"
 
-**Thanks for visiting! Feel free to reach out if you want to collaborate or just chat about tech.** ☕
+**Thanks for visiting! Feel free to reach out if you want to collaborate, chat about tech, or discuss opportunities.** ☕
+
+*Currently open to roles in SF/Bay Area and remote positions with innovative startups and tech companies.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 

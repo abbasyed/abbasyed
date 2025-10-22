@@ -169,7 +169,7 @@ Full-stack application helping job seekers optimize resumes with AI-powered job-
 <td width="50%">
 
 ### 🌐 Cultural AI Translation Agent
-[![Demo](https://img.shields.io/badge/Hackathon_Project-FF6B6B?style=for-the-badge&logo=python&logoColor=white)](https://github.com/abbasyed/cultural-ai-agent)
+[![Demo](https://img.shields.io/badge/Hackathon_Project-FF6B6B?style=for-the-badge&logo=python&logoColor=white)](https://github.com/abbasyed/cerebralai-sfhack)
 
 **AI Agent with Semantic Search & Vector Embeddings**
 

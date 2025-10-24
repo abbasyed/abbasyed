@@ -380,7 +380,7 @@ const currentFocus = {
 ✅ **Early-stage startups (Seed - Series C) & high-growth tech companies**  
 ✅ **Companies that move fast and ship features**  
 ✅ **Teams that value performance, scalability, and AI-assisted development**  
-✅ **Open to SF/Bay Area relocation or remote opportunities**
+✅ **Open to relocation(USA, Europe, Japan, Russia, China) or remote opportunities**
 
 ### Let's talk about:
 💬 Building products 0→1 with real users and revenue  

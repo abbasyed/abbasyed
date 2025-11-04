@@ -402,7 +402,7 @@ const currentFocus = {
 
 **Thanks for visiting! Feel free to reach out if you want to collaborate, chat about tech, or discuss opportunities.** ☕
 
-*Currently open to roles in (USA, Europe, Japan, Russia, China) and remote positions with innovative startups and tech companies.*
+*Currently open to roles in (USA, Europe, Japan) and remote positions with innovative startups and tech companies.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 

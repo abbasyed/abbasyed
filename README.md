@@ -22,7 +22,7 @@
 
 ```typescript
 const abbas = {
-    location: "California 📍 (Open to SF/Bay Area relocation)",
+    location: "California 📍 (Open to SF/Bay Area relocation and anywhere in the USA)",
     currentRole: "Full Stack Engineer @ Tern Systems",
     education: "Master's in Computer Science 🎓",
     focus: ["0→1 Product Building", "Performance Optimization", "AI-Assisted Development"],

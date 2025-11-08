@@ -183,7 +183,7 @@ AI agent that learns cultural communication preferences using vector embeddings 
 <td width="50%">
 
 ### 🧠 Emotion-Analyzer
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abbasyed/emotion-analyzer)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abbasyed/LLM-Emotion-Analyzer)
 
 **NLP Sentiment Analysis Engine**
 

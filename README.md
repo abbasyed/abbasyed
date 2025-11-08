@@ -183,6 +183,7 @@ AI agent that learns cultural communication preferences using vector embeddings 
 <td width="50%">
 
 ### 🧠 Emotion-Analyzer
+
 [![Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://llm-emotion-analyzer-3x2jsogrgsk6yedqjqwymt.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abbasyed/LLM-Emotion-Analyzer)
 

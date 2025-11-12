@@ -234,13 +234,28 @@ Built at Real Page - Node.js microservices with fault-tolerant design and automa
 </div>
 
 **Recent Contributions:**
-- 🔧 **[PR #15521](https://github.com/vitejs/vite/pull/20872)** - Fixed HMR for import.meta.glob array patterns with exclusions
-- 📚 **[PR #15464](https://github.com/vitejs/vite/pull/20756)** - Migrated hook filter documentation to main plugin guide
-- 💬 Active in community helping developers debug build and configuration issues
+- 🔗 **[View all PRs](https://github.com/vitejs/vite/pulls?q=is%3Apr+author%3Aabbasyed)** - Contributing to HMR improvements, documentation, and developer experience
 
 <div align="center">
-  
+
 [![Vite Contributor](https://img.shields.io/badge/Vite-Core_Contributor-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://github.com/vitejs/vite)
+
+</div>
+
+<div align="center">
+
+### Contributing to [LangChain](https://github.com/langchain-ai/langchain) 🦜🔗
+
+> Active contributor to LangChain, the leading framework for building LLM-powered applications. Contributing to improve AI agent capabilities, documentation, and developer experience for the growing AI/ML community.
+
+</div>
+
+**Recent Contributions:**
+- 🔗 **[View all PRs](https://github.com/langchain-ai/langchain/pulls/abbasyed)** - Contributing to AI agent capabilities, documentation, and developer experience
+
+<div align="center">
+
+[![LangChain Contributor](https://img.shields.io/badge/LangChain-Contributor-121212?style=for-the-badge&logo=chainlink&logoColor=white)](https://github.com/langchain-ai/langchain)
 
 </div>
 

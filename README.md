@@ -14,23 +14,20 @@ Full Stack Engineer building scalable systems at [Tern Systems](https://www.tern
 
 </div>
 
-## Work
+## Tech Stack
 
-Currently serving 45K+ daily users and processing $5M+ in transactions through Next.js applications. M.S. in Computer Science from University of the Pacific.
-
-**Impact:**
-- 65% faster page loads (3.2s → 1.1s)
-- 80% latency reduction through MongoDB optimization
-- 99.95% uptime on payment systems
-- 12+ features shipped in 6 months
-
-**Stack:**
 **Languages:** JavaScript • TypeScript • Python • Core Java
+
 **Frontend:** React/Next.js • Redux • TailwindCSS
+
 **Backend:** Node.js/Express • GraphQL • Kafka • Microservices • OAuth 2.0/JWT
+
 **Databases:** PostgreSQL • MongoDB • Redis
+
 **Cloud/DevOps:** AWS (EC2, ECS, Lambda, S3) • Docker • GitHub Actions
+
 **AI/ML:** Cursor AI • Claude Code CLI • GitHub Copilot • GPT-4 • BERT/Hugging Face • PyTorch/Transformers • Gemini API • LangChain • Vector Embeddings
+
 **Testing:** Jest • Cypress • k6 • Pytest
 
 ## Projects

@@ -39,7 +39,7 @@ JavaScript • TypeScript • Python • Core Java • React/Next.js • Redux �
 
 ## Open Source
 
-Contributing to [Vite](https://github.com/vitejs/vite) (100K+ stars) and [LangChain](https://github.com/langchain-ai/langchain).
+Contributing to [Vite](https://github.com/vitejs/vite/pulls/abbasyed) (100K+ stars) and [LangChain](https://github.com/langchain-ai/langchain/pulls/abbasyed).
 
 ## Contact
 

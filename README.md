@@ -14,6 +14,8 @@ Full Stack Engineer building scalable systems at [Tern Systems](https://ternsyst
 
 <img width="49%" src="https://github-stats-lime-chi.vercel.app/api/top-langs/?username=abbasyed&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8&count_private=true&hide=html,css" />
 
+<img width="49%" src="https://git-stats-summary.vercel.app/api/cards/most-commit-language?username=abbasyed&theme=github_dark" />
+
 </div>
 
 ## Work

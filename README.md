@@ -38,7 +38,7 @@ Currently serving 45K+ daily users and processing $5M+ in transactions through N
 
 **AI/ML:** Cursor AI • Claude Code CLI • GitHub Copilot • GPT-4 • BERT/Hugging Face • PyTorch/Transformers • Gemini API • LangChain • Vector Embeddings
 
-**Testing:** Jest • Cypress • k6
+**Testing:** Jest • Cypress • k6 • Pytest
 
 ## Projects
 

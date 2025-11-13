@@ -40,7 +40,7 @@ Full Stack Engineer building scalable systems at [Tern Systems](https://www.tern
 
 ## Open Source
 
-Contributing to [Vite](https://github.com/vitejs/vite/pulls/abbasyed) (100K+ stars) and [LangChain](https://github.com/langchain-ai/langchain/pulls/abbasyed).
+Contributing to [Vite](https://github.com/vitejs/vite/pulls/abbasyed) (100K+ stars) and [LangChain](https://github.com/langchain-ai/langchain/pulls/abbasyed) (120K+ stars).
 
 ## Contact
 

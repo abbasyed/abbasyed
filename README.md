@@ -27,11 +27,17 @@ Currently serving 45K+ daily users and processing $5M+ in transactions through N
 **Stack:**
 
 **Languages:** JavaScript • TypeScript • Python • Core Java
+
 **Frontend:** React/Next.js • Redux • TailwindCSS
+
 **Backend:** Node.js/Express • GraphQL • Microservices • OAuth 2.0/JWT
+
 **Databases:** PostgreSQL • MongoDB • Redis • Kafka
+
 **Cloud/DevOps:** AWS (EC2, ECS, Lambda, S3) • Docker • GitHub Actions
+
 **AI/ML:** Cursor AI • Claude Code CLI • GitHub Copilot • GPT-4 • BERT/Hugging Face • PyTorch/Transformers • Gemini API • LangChain • Vector Embeddings
+
 **Testing:** Jest • Cypress • k6
 
 ## Projects

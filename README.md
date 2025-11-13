@@ -30,7 +30,9 @@ JavaScript • TypeScript • Python • Core Java • React/Next.js • Redux �
 ## Projects
 
 **[CVInsight](https://cvinsight.site)** — AI resume analysis platform. 2,000+ users, 4.5/5 rating.
+
 **[Emotion-Analyzer](https://github.com/abbasyed/LLM-Emotion-Analyzer)** — BERT-based sentiment analysis with 95% accuracy.
+
 **[Cultural AI Agent](https://github.com/abbasyed/cerebralai-sfhack)** — Vector embeddings for translation (Cerebral SF Hackathon).
 
 ## Open Source

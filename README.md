@@ -12,6 +12,8 @@ Full Stack Engineer building scalable systems at [Tern Systems](https://ternsyst
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abbasyed&theme=react&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F59E0B&currStreakLabel=F59E0B&include_all_commits=true" />
 
+<img width="49%" src="https://github-stats-lime-chi.vercel.app/api/top-langs/?username=abbasyed&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8&count_private=true&hide=html,css" />
+
 </div>
 
 ## Work

@@ -8,10 +8,9 @@ Full Stack Engineer building scalable systems at [Tern Systems](https://www.tern
 
 <div align="center">
 
-<a href="#"><img width="49%" src="https://github-stats-lime-chi.vercel.app/api?username=abbasyed&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&count_private=true&include_all_commits=true#gh-dark-mode-only" /></a>
-<a href="#"><img width="49%" src="https://github-stats-lime-chi.vercel.app/api?username=abbasyed&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=3B82F6&icon_color=3B82F6&text_color=000000&count_private=true&include_all_commits=true#gh-light-mode-only" /></a>
-<a href="#"><img width="49%" src="https://github-stats-lime-chi.vercel.app/api/top-langs/?username=abbasyed&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=10&count_private=true&hide=html,css&card_width=445#gh-dark-mode-only" /></a>
-<a href="#"><img width="49%" src="https://github-stats-lime-chi.vercel.app/api/top-langs/?username=abbasyed&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=3B82F6&text_color=000000&langs_count=10&count_private=true&hide=html,css&card_width=445#gh-light-mode-only" /></a>
+<img width="49%" src="https://github-stats-lime-chi.vercel.app/api?username=abbasyed&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&count_private=true&include_all_commits=true" />
+
+<img width="49%" src="https://github-stats-lime-chi.vercel.app/api/top-langs/?username=abbasyed&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&langs_count=10&count_private=true&hide=html,css&card_width=445" />
 
 </div>
 

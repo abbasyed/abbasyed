@@ -8,11 +8,17 @@ Full Stack Engineer building scalable systems at [Tern Systems](https://www.tern
 
 <div align="center">
 
-<img width="49%" src="https://github-stats-lime-chi.vercel.app/api?username=abbasyed&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&count_private=true&include_all_commits=true#gh-dark-mode-only" />
-<img width="49%" src="https://github-stats-lime-chi.vercel.app/api?username=abbasyed&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=3B82F6&icon_color=3B82F6&text_color=000000&count_private=true&include_all_commits=true#gh-light-mode-only" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-lime-chi.vercel.app/api?username=abbasyed&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&count_private=true&include_all_commits=true" width="49%">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-lime-chi.vercel.app/api?username=abbasyed&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=3B82F6&icon_color=3B82F6&text_color=000000&count_private=true&include_all_commits=true" width="49%">
+  <img width="49%" src="https://github-stats-lime-chi.vercel.app/api?username=abbasyed&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+</picture>
 
-<img width="49%" src="https://github-stats-lime-chi.vercel.app/api/top-langs/?username=abbasyed&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=10&count_private=true&hide=html,css&card_width=445#gh-dark-mode-only" />
-<img width="49%" src="https://github-stats-lime-chi.vercel.app/api/top-langs/?username=abbasyed&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=3B82F6&text_color=000000&langs_count=10&count_private=true&hide=html,css&card_width=445#gh-light-mode-only" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-lime-chi.vercel.app/api/top-langs/?username=abbasyed&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=10&count_private=true&hide=html,css&card_width=445" width="49%">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-lime-chi.vercel.app/api/top-langs/?username=abbasyed&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=3B82F6&text_color=000000&langs_count=10&count_private=true&hide=html,css&card_width=445" width="49%">
+  <img width="49%" src="https://github-stats-lime-chi.vercel.app/api/top-langs/?username=abbasyed&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=10&count_private=true&hide=html,css&card_width=445" />
+</picture>
 
 </div>
 

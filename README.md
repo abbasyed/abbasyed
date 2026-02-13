@@ -1,6 +1,6 @@
 # Abbas Syed
 
-Full Stack Engineer building scalable systems at [Tern Systems](https://www.tern.ac/). Based in California.
+Software Engineer building scalable systems Based in California.
 
 [LinkedIn](https://www.linkedin.com/in/abbazz) • [Portfolio](https://abbaz.dev) • [Email](mailto:abbazzsayed@gmail.com)
 

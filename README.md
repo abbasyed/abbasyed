@@ -1,6 +1,6 @@
 # Abbas Syed
 
-Software Engineer building scalable systems Based in California.
+Software Engineer building scalable systems, based in California.
 
 [LinkedIn](https://www.linkedin.com/in/abbazz) • [Portfolio](https://abbaz.dev) • [Email](mailto:abbazzsayed@gmail.com)
 

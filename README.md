@@ -2,7 +2,7 @@
 
 Software Engineer building scalable systems, based in California.
 
-[LinkedIn](https://www.linkedin.com/in/abbazz) • [Portfolio](https://abbaz.dev) • [Email](mailto:abbazzsayed@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/abbazz) • [Portfolio](https://abbaz.dev) 
 
 ## Stats
 
@@ -32,8 +32,6 @@ Software Engineer building scalable systems, based in California.
 
 ## Projects
 
-**[CVInsight](https://cvinsight.site)** — AI resume analysis platform. 2,000+ users, 4.5/5 rating.
-
 **[AgentCapture](https://github.com/abbasyed/AgentCapture)** — GPT-4o vision-based web automation agent with natural language control.
 
 **[Emotion-Analyzer](https://github.com/abbasyed/LLM-Emotion-Analyzer)** — BERT-based sentiment analysis with 95% accuracy.
@@ -48,5 +46,4 @@ Contributing to [Vite](https://github.com/vitejs/vite/pulls/abbasyed) (100K+ sta
 
 Open to Full Stack/Backend roles at startups and high-growth companies.
 
-📧 [abbazzsayed@gmail.com](mailto:abbazzsayed@gmail.com)
 🔗 [linkedin.com/in/abbazz](https://www.linkedin.com/in/abbazz)
